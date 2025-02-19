@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ICZzGQ9npT" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Implementing SQL Functions and Aggregate Functions</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Implementing_SQL_Functions_and_Aggregate_Functions_ORG">
+    <organization identifier="Implementing_SQL_Functions_and_Aggregate_Functions_ORG">
+      <title>Implementing SQL Functions and Aggregate Functions</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__6ICZzGQ9npT_RES">
+        <title>Implementing SQL Functions and Aggregate Functions</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ICZzGQ9npT_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="mobile/6jkdpV4MjVd.jpg" />
+      <file href="mobile/5gBIHYVil4e.jpg" />
+      <file href="mobile/6iBeWyqEj60.jpg" />
+      <file href="mobile/6OVGmt7yQF2.jpg" />
+      <file href="mobile/6ag0PO7YcG2.jpg" />
+      <file href="mobile/6LwwJPqhvMB.jpg" />
+      <file href="mobile/5yniCYpSD2z.jpg" />
+      <file href="mobile/5hMUDX7xSE9.jpg" />
+      <file href="mobile/5ykz0WrOxAu.jpg" />
+      <file href="mobile/6hLH82WI2WC.jpg" />
+      <file href="mobile/63tHXdXURlH.jpg" />
+      <file href="mobile/5l4mDwrRdH5.jpg" />
+      <file href="mobile/64sW3OiwrRy.jpg" />
+      <file href="mobile/6nVLT4piUPR.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fNmC6HrbxC.js" />
+      <file href="html5/data/js/5mnnPkCf1zI.js" />
+      <file href="html5/data/js/5q1QwRSS0uW.js" />
+      <file href="html5/data/js/5sf1wZUH9Uq.js" />
+      <file href="html5/data/js/5sfC70wFRBf.js" />
+      <file href="html5/data/js/5tkupSuFZZO.js" />
+      <file href="html5/data/js/5v5Fx3cPVhf.js" />
+      <file href="html5/data/js/5Vo1EQF9mwL.js" />
+      <file href="html5/data/js/5vWQanMJ9ck.js" />
+      <file href="html5/data/js/5Vzynujzvbh.js" />
+      <file href="html5/data/js/5XV9iB6XcIf.js" />
+      <file href="html5/data/js/60gpVx3Dhee.js" />
+      <file href="html5/data/js/649iPdFF6EB.js" />
+      <file href="html5/data/js/65dD8tY2ZU1.js" />
+      <file href="html5/data/js/68MI7f4im6B.js" />
+      <file href="html5/data/js/69oJN3m6F2h.js" />
+      <file href="html5/data/js/6BplfGVhQa3.js" />
+      <file href="html5/data/js/6dLivaR4EAx.js" />
+      <file href="html5/data/js/6fBkmZ1l553.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6KHZHHv56i0.js" />
+      <file href="html5/data/js/6LL73YesQQK.js" />
+      <file href="html5/data/js/6MJ5unGhNL6.js" />
+      <file href="html5/data/js/6qHfAQIOEiq.js" />
+      <file href="html5/data/js/6Ue22xWBjtJ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
